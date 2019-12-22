@@ -6,7 +6,7 @@ using static CANAPE.Cli.ConsoleUtils;
 // Create proxy template
 var template = new FixedProxyTemplate ();
 template.LocalPort = 5000;
-template.Host = "www.chauat.ac.th";
+template.Host = "www.savedrug.co.th";
 template.Port = 80;
 
 // Create proxy instance and start
